@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/work/kotlinapi/</loc>
+    <lastmod>2020-07-08T22:22:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/androidmalwareone/</loc>
+    <lastmod>2020-03-18T08:19:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-01-24T20:40:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/staticanalysis/</loc>
+    <lastmod>2019-01-30T20:45:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/picoctf2018/</loc>
+    <lastmod>2018-12-28T20:45:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/gamificiation/</loc>
+    <lastmod>2020-08-10T15:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-10T15:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-08-10T15:32:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/fromexetopixel/</loc>
+    <lastmod>2020-07-22T22:22:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/</loc>
+    <lastmod>2020-07-22T22:22:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/magicctf/</loc>
+    <lastmod>2019-12-05T08:19:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/twittered/</loc>
+    <lastmod>2019-01-19T22:14:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work/graduate/</loc>
+    <lastmod>2018-08-10T15:34:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

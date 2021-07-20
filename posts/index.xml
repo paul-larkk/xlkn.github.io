@@ -1,0 +1,114 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Paul Larkin</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Paul Larkin</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Paul Larkin</copyright>
+        <lastBuildDate>Mon, 10 Aug 2020 15:32:05 +0100</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>What I Learnt From Competing in PicoCTF 2018</title>
+            <link>/posts/picoctf2018/</link>
+            <pubDate>Fri, 28 Dec 2018 20:45:02 +0000</pubDate>
+            
+            <guid>/posts/picoctf2018/</guid>
+            <description>In this blog post, I want to share my thoughts on competing in a live CTF for the first time. The event was Pico CTF hosted online and created by Carnegie Mellon University (CMU) Cybersecurity and the world number two CTF team currently at the time of writing Plaid Parliament of Pwning (PPP).
+It is an engaging event with a series of different challenges. That on progression push you out your comfort zone just enough for you to have to research and learn new tools and techniques to capture the flag and earn points.</description>
+            <content type="html"><![CDATA[
+    <img src="/img/pico18/lead.png"  alt="screenshot"  class="center"  />
+
+
+<p>In this blog post, I want to share my thoughts on competing in a live CTF for the first time. The event was Pico CTF hosted online and created by Carnegie Mellon University (CMU) Cybersecurity and the world number two CTF team currently at the time of writing Plaid Parliament of Pwning (PPP).</p>
+<p>It is an engaging event with a series of different challenges. That on progression push you out your comfort zone just enough for you to have to research and learn new tools and techniques to capture the flag and earn points. I spent most of the weekend engaged in the CTF as a solo team. Doing so, I learned a ton about steganography, Linux tools and different forms of cryptography. These areas were the most fun for me to delve into as I only had a basic understanding of the concept and never spent time looking into them or actively doing side projects related to these sections.</p>
+<p>During the CTF I used kali-Linux tools, Foremost and Binwalk for file carving analysis, ExifTool and stegSolve for image analysis and the events integrated web terminal to complete the general Linux command line. In the challenges I learned the benefit of using the man pages, strings, grep and pipe command to search for and find specific words and strings within files with and without names. The strings command was especially useful as I now use it a lot when learning about static analysis of malicious software.</p>
+
+    <img src="/img/pico18/exif.png"  alt="screenshot"  class="center"  />
+
+
+<p>Overall, I had a blast playing it and am looking forward to next year’s challenges. To improve my chances in the next CTF I compete in, I will be working on my binary and reverse engineering skills over the following year as this is the section, I was quite interested in but lacked the knowledge for the contest. Finishing in the top 2000 out of the 40,000 or more was quite pleasing. Hopefully, I can achieve a top 1000 next year.</p>
+
+    <img src="/img/pico18/finalScore.png"  alt="screenshot"  class="center"  />
+
+
+]]></content>
+        </item>
+        
+        <item>
+            <title>Cyber Gamification: Immersive Labs and TryHackMe</title>
+            <link>/posts/gamificiation/</link>
+            <pubDate>Mon, 10 Aug 2020 15:32:05 +0100</pubDate>
+            
+            <guid>/posts/gamificiation/</guid>
+            <description>All of us have heard of how gaming can become addictive. As previous gamer I know all too well how addictive and competitive video games can become. But, what if we can apply that same magic to more positive skill training? Specifically in cyber security given that hands on nature of various techniques and roles in the sector.
+I&amp;rsquo;m going to do just that, well from my own personal perspective and experience with cyber wargaming platforms such as immersive labs and TryHackMe.</description>
+            <content type="html"><![CDATA[<p>All of us have heard of how gaming can become addictive. As previous gamer I know all too well how addictive and competitive video games can become. But, what if we can apply that same magic to more positive skill training? Specifically in cyber security given that hands on nature of various techniques and roles in the sector.</p>
+<p>I&rsquo;m going to do just that, well from my own personal perspective and experience with cyber wargaming platforms such as immersive labs and TryHackMe. Although there are lots of other great sites on the web, I&rsquo;ve spent the most time with these site specifically. Throughout this time I managed to reach the top two percent globally on both these platforms, which you can see from images below.</p>
+<ul>
+<li>
+<p>Ranked #477/17,873 on <a href="https://immersivelabs.online/">Immersive Labs</a> - Top 0.02% (19/12/2019)</p>
+</li>
+<li>
+<p>Ranked #3490/138,832 on <a href="https://tryhackme.com/">TryHackMe</a> - Top 0.02% (17/07/2020)</p>
+</li>
+</ul>
+<p>
+    <img src="/img/game/immR.png"  class="center"  />
+
+
+
+    <img src="/img/game/immLeaderboard.png"  class="center"  />
+
+
+ 
+
+    <img src="/img/game/tryhackme.png"  class="center"  />
+
+</p>
+<p>Both immersive labs and tryhackme do a good job of letting the user explore the environment and topics without locking you to specificity into a specific pathway, once you do choose a point of interest they start of slowly building the user confidence, scaling the problems with each right answer and adding the right amount of difficultly to make it challenging, novel and entertaining. Coupled with a points system and leaderboard that feeds into the reward pathway of the brain. We can start to see why these platforms can become addictive and allow users to build knowledge and understanding in a fun and engaing way just like playing video games.</p>
+<p>By doing so the platforms are connecting us with imagery, emotions and outcomes which have been shown to enhance learning and memory encoding for the long term.</p>
+<p>Overall, from my persective I found this to be the most productive and enjoyable way to learn a board range of cyber secuirty tool, terms and pathways from OINT to Malware Analysis and everything in between. There isnt much that can replace practical use of tools with real use cases where students can get an insight into careers and pathway that intrest them.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Leading a Team for MagicCTF</title>
+            <link>/posts/magicctf/</link>
+            <pubDate>Thu, 05 Dec 2019 08:19:11 +0000</pubDate>
+            
+            <guid>/posts/magicctf/</guid>
+            <description>Today, I am writing up a quick blog post on my thoughts and experience leading a team and competing in Mid-Atlantic Gigabit Innovation Collaboratory (MAGIC) CTF.
+We participated locally on registered sites while the competition end was held online in the cloud accessed by SSH. All the challenges were unlocked at once and sitting on the server within level folders progressing in difficulty. Which was odd as it was the first time i had seen this format before.</description>
+            <content type="html"><![CDATA[
+    <img src="/img/magic/magicone.jpg"  class="center"  />
+
+
+<p>Today, I am writing up a quick blog post on my thoughts and experience leading a team and competing in Mid-Atlantic Gigabit Innovation Collaboratory (MAGIC) CTF.</p>
+<p>We participated locally on registered sites while the competition end was held online in the cloud accessed by SSH. All the challenges were unlocked at once and sitting on the server within level folders progressing in difficulty. Which was odd as it was the first time i had seen this format before. Other capture the flag events, I have participated in unlocked new challenges gradually after completing them.</p>
+<p>As a capture the flag(CTF) enthusiast and the team captain i surprised and pleased to be able to guide and introduce the idea behind the competition, what to expect, the various tools likely needed for challenges.</p>
+<p>Throughout, It was fun introducing the team to common concepts within capture the flag. With the only downside being, I didn’t get to tackle as many of the challenges as I would have liked to, which was a trade-off of leading the team, answering questions and pointing them in the right direction. For my team’s first time taking part in a CTF event, we came 33 out of 110 teams across America and Europe that where competition which to me is a great success.</p>
+<p>Which was a different but enjoyable experience and gave me a boost in confidence knowing that I could depart knowledge I had built up competing and help the team complete various challenges. Going forward, I look forward to more opportunities like this moving on to university.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Using Twitter as an Educational Tool</title>
+            <link>/posts/twittered/</link>
+            <pubDate>Sat, 19 Jan 2019 22:14:59 +0100</pubDate>
+            
+            <guid>/posts/twittered/</guid>
+            <description>In this post, I am going to share how you can take social media and leverage it as an educational tool. This is most prevalent in relation to Twitter, you can turn your news feed into a gold mine of information, simply by following the right people in your subject area of interest.
+For me, that would be the computer security community and the steps I took doing this myself. To start off, I personally created a new twitter account specifically for this purpose and started following several open source content creators, malware analysts, and security researchers.</description>
+            <content type="html"><![CDATA[<p>In this post, I am going to share how you can take social media and leverage it as an educational tool. This is most prevalent in relation to Twitter, you can turn your news feed into a gold mine of information, simply by following the right people in your subject area of interest.</p>
+<p>For me, that would be the computer security community and the steps I took doing this myself. To start off, I personally created a new twitter account specifically for this purpose and started following several open source content creators, malware analysts, and security researchers.</p>
+<p>To find people to follow I would start with someone in your subject area whose content you already enjoy and see who they currently following and re-posting. Over time this will allow you to get exposed to interesting topics, current trends and up to date news. Another aspect of this is the opportunities and events related to your field, which allows you to find smaller conferences and networking events you may miss out on otherwise.</p>
+<p>I personally use twitters like feature as a bookmarking tool on my twitter timeline to keep track of interesting posts and links that I want to view later because we don&rsquo;t always have time to read a full blog post on the go.</p>
+<p>If you are interested in this field of study, feel free to check out my <a href="https://twitter.com/0xlkn">twitter</a> for inspiration.</p>
+<p>Thanks for reading, hope this little tip helps you as much as it has me.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

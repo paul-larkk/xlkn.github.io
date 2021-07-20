@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Paul Larkin</title>
+    <link>/work/</link>
+    <description>Recent content in Works on Paul Larkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paul Larkin</copyright>
+    <lastBuildDate>Wed, 22 Jul 2020 22:22:08 +0100</lastBuildDate>
+    
+	<atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring the Unsplash API in Kotlin</title>
+      <link>/work/kotlinapi/</link>
+      <pubDate>Wed, 08 Jul 2020 22:22:41 +0100</pubDate>
+      
+      <guid>/work/kotlinapi/</guid>
+      <description>During the Covid-19 lockdown, I took the time to get familiar with both mobile development and the Kotlin programming language. I will start by saying it not the prettiest code as am still currently learning. The project was a small milestone in my understanding of both APIs and the Kotlin language. I wanted to challenge myself with an API I wasn&amp;rsquo;t familiar with so that I would have to read the developers documents and put in the time to make it work error by error.</description>
+    </item>
+    
+    <item>
+      <title>Android Premium SMS Malware Analysis</title>
+      <link>/work/androidmalwareone/</link>
+      <pubDate>Wed, 18 Mar 2020 08:19:11 +0000</pubDate>
+      
+      <guid>/work/androidmalwareone/</guid>
+      <description>Sample hash: cf661506978f088f276a5a5bc4f0ea71101f99941840dd0864b2068ee2eb2271
+In this project, I will be detailing the steps that I took when analyzing a malicious sample after completing Maddie Stones Android Reverse Engineering 101 course. I found the course an excellent practical introduction and overview of reverse engineering mobile malware.
+The course is available at https://maddiestone.github.io/AndroidAppRE/ if your interested I can&amp;rsquo;t recommend it an enough.
+As for the APK itself, the sample was found around September time back in 2019 and was added to sk3ptre malware samples Github repository in February 2020.</description>
+    </item>
+    
+    <item>
+      <title>Practical Malware Analysis - Static Analysis Practice</title>
+      <link>/work/staticanalysis/</link>
+      <pubDate>Wed, 30 Jan 2019 20:45:02 +0000</pubDate>
+      
+      <guid>/work/staticanalysis/</guid>
+      <description>In the following blog post, I am going walk through several of the steps I took to start learning about static analysis for windows malware using both samclass.info and the Practical Malware Analysis book. The examples below are from the books exercise materials. The tools vary to the book recommendations as I found others that speed up the process.
+Lab01-02.exe – Packed exe. To start, I ran the sample through detect-it-easy which indicated that the sample was packed with UPX.</description>
+    </item>
+    
+    <item>
+      <title>From Exe to Pixels: Image Generation For Malware Classification</title>
+      <link>/work/fromexetopixel/</link>
+      <pubDate>Wed, 22 Jul 2020 22:22:08 +0100</pubDate>
+      
+      <guid>/work/fromexetopixel/</guid>
+      <description>This write-up came about after learning about image classification from fast.ai&amp;rsquo;s online course. The course started out by teaching participants to classify cats and dogs images, this was cool at the time but then my mind shifted to can this be used to classify malware and how? The simple answer, yes, but finding a dataset with benign images now that was a problem. So in this write-up, I will showing the steps I took while i started to build a dataset with benign greyscale images using windows executables.</description>
+    </item>
+    
+    <item>
+      <title>The Graduate Re-Brand &amp; Logo Design</title>
+      <link>/work/graduate/</link>
+      <pubDate>Fri, 10 Aug 2018 15:34:47 +0100</pubDate>
+      
+      <guid>/work/graduate/</guid>
+      <description>I developed this project after entering my creative brief and mock up for redesign of southern regional college, graduate restaurant. The organisers where looking for concept ideas based on the remodelling and renovation of the restaurants interior.
+My design style at the time was heavy focused on modern minimalism design trends with muted or neutral colours and designs that I had seen other trendy restaurants from around the world implement in their own ways.</description>
+    </item>
+    
+  </channel>
+</rss>
